@@ -50,7 +50,7 @@ def modeChoiceSimulation (travelTime, travelCost, wage, modelParams, i, j, trave
 
 # data - travel time and price on o-d level for 6 modes
 
-data = pd.read_csv('/Data/trip_data_c2smart_after_fhv_updated.csv')
+data = pd.read_csv('/Data/trip_data_6modes.csv')
 data.head()
 
 
