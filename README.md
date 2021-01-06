@@ -6,3 +6,4 @@ The paper presents an individual mode-choice and mode-shift simulation model and
 
 - 'NMNL' folder contains code files for Nested Multinomial Logit model
 - 'Choice_Simulation' folder contains files for individual choice simulation model
+- 'Data' folder has data regarding trips among 6 modes in NYC between taxi zones
