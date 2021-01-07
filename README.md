@@ -1,6 +1,4 @@
-# Mode-shift-Probabilistic-simulation-framework
-
-## Probabilistic Simulation Framework Assessing the Impacts ofRidesharing and Manhattan Congestion Surcharge
+## Probabilistic Simulation Framework Assessing the Impacts of Ridesharing and Manhattan Congestion Surcharge
 
 Code for paper 'Transportation Interventions Reshaping NYC Commute: the Probabilistic Simulation Framework Assessing the Impacts of Ridesharing and Manhattan Congestion Surcharge' (https://arxiv.org/abs/2010.06588)
 
