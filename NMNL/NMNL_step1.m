@@ -3,7 +3,7 @@ warning('OFF', 'MATLAB:table:ModifiedAndSavedVarnames')
 %format longEng
 %digits(100000000)
 
-data = readtable('trip_data_c2smart_before_fhv.csv', 'HeaderLines',0);
+data = readtable('..Data/trip_data_4modes.csv', 'HeaderLines',0);
 
 %% zone: number of taxi zones, group: income groups, mode: number of modes 
 zone = 263;
